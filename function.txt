@@ -1,0 +1,26 @@
+User
+    -LOGIN (LOGIN USING PHONENUMBER AND PASSWORD)  --DONE
+    -SIGNUP                                        --DONE
+    -GET USER BY ID                                --DONE
+    -EDIT USER PHONE NUMBER                        --DONE
+
+
+Products
+    -GET ALL PRODUCT                               --DONE
+    -ADD PRODUCT                                   --DONE
+    -EDIT PRODUCT                                  --DONE
+    -DELETE PRODUCT                                --DONE
+    -DISABLE PRODUCT                               --DONE
+
+
+User Cart
+    -GET USER CART                                 --DONE
+    -INCREASE QUANTITY OF THE CART                 --DONE
+    -DECREASE QUANTITY OF THE CART                 --DONE
+    -REMOVE CART                                   --DONE
+
+
+Orders
+    -GET ORDER BY USER ID                          --DONE
+    -PLACE ORDER                                   --DONE
+    -DELIVER ORDER                                 
